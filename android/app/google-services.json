@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885434568694",
+    "project_id": "bikein-a57e5",
+    "storage_bucket": "bikein-a57e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885434568694:android:597c8097bb4cc15a8e41d7",
+        "android_client_info": {
+          "package_name": "com.example.bike_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiyReZyfLRHc-wP25BxsvVoI8NRupL9FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
